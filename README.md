@@ -6,9 +6,14 @@ MentalHealthApp is an all-in-one mental health platform developed with the MERN 
 
 ##Technologies:--
 HTML, CSS, JavaScript: Fundamental web technologies for constructing the frontend.
+
 React: A JavaScript library for creating a dynamic and user-friendly interface.
+
 MongoDB: NoSQL database to securely store user data, mood logs, and shared posts.
+
 Express.js: A backend framework for managing API requests and handling server-side logic.
+
 Node.js: JavaScript runtime environment for server-side operations.
+
 Gemini API: Natural language processing service that powers the AI therapist and generates feedback for the mood quiz.
 
